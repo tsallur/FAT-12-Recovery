@@ -5,7 +5,7 @@ CPSC 3220
 Project #4: Recovering the Lost Bits
 Due: November 3rd, 2020
 
-Academic Integrity DISCLAIMER: Any use of this code as a guide/copy for Dr. Sorber's intro to Operating Systems course is prohibited. He uses a plagarism checker he programmed himself so you will be caught. Dr. Sorber if you are reading this and would like me to make this private, please email me at tsallur@gmail.com.
+Academic Integrity DISCLAIMER: Any use of this code as a guide/copy for Dr. Sorber's intro to Operating Systems course is prohibited. He uses a plagarism checker he programmed himself so you will be caught. Dr. Sorber if you are reading this and would like me to make this private, please email me at tsallurd@gmail.com.
 
 DESCRIPTION:
 A tool that will parse disk images using FAT12 and will print out information about the files that the disk images contain. The program will print out a single line for each file that it finds and also write the recovered files contents into a file in the specified output directory.
